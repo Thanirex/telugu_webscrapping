@@ -5,6 +5,7 @@ Web Scraper for AndhraJyothy News
 ## Description
 
 This project is a Python-based web scraper designed to scrape news articles from the AndhraJyothy website. It navigates through different news categories, fetches articles, and stores them in JSON format. The scraper uses the `requests` library for HTTP requests, `BeautifulSoup` for parsing HTML content, and `json` for storing the scraped data.
+Check out the article link here: https://www.andhrajyothy.com/
 
 ## Features
 
